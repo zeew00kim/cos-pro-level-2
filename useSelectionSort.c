@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <time.h> 
 
 void selectionSort(int* arr, int num);
 void printArr(int* arr, int num);
